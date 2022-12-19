@@ -8,20 +8,3 @@ public class Main {
     }
 }
 
-
-
-
-
-
-
-
-
-//        int price = 50;
-//        int oneMileBonus = 20;
-//        int miles;
-//
-//        if (price > oneMileBonus) {
-//            amountMileBonus = price / oneMileBonus;
-//            System.out.println(miles);
-//        }
-
